@@ -1,4 +1,4 @@
-## Firefox Web Browser
+## Firefox Settings
 
 ### Adjust settings
 
